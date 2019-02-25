@@ -33,3 +33,8 @@ Able to learn new technologies rapidly.
 **Position**: Head of the Internet development department, Key Developer  
 **Stack**: Perl + partially PHP, MySQL, HTML/CSS (custom + partially Bootstrap), JS (jQuery + partially vanila JS)  
 **Responsibilities**: Communication with customers, manage development process, development functionality  
+
+## Education
+***
+**Minsk College of Business, Minsk, Belarus	 2008**  
+Technical secondary education
