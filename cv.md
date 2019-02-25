@@ -21,3 +21,15 @@ Able to learn new technologies rapidly.
 **Database**: MySQL  
 **Samples of code**: [GitHub](https://github.com/miniLampa)  
 **English-level**: A2+(Pre-Intermediate)
+
+## Professional Experience
+***
+**02.2015 – present, International Charitable Public Organization of animal welfare ZOOshans**  
+**Position**: Product owner, Project Coordinator  
+**Stack**: Symfony2, PerconaDB (MySQL family), NodeJS, MongoDB, React  
+**Responsibilities**: Communication, define scope and requirements, manage development process  
+
+**06.2012 – 09.2012, Information Technologies Center**  
+**Position**: Head of the Internet development department, Key Developer  
+**Stack**: Perl + partially PHP, MySQL, HTML/CSS (custom + partially Bootstrap), JS (jQuery + partially vanila JS)  
+**Responsibilities**: Communication with customers, manage development process, development functionality  
